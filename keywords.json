@@ -53,5 +53,6 @@
     "HOST MI": "?",
     "DANN HOIT NET": ":",
     "HUACH ZUA": "=>",
-    "HEAST": "alert"
+    "HEAST": "alert",
+    "SENF": "throw new Error"
 }
